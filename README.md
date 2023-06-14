@@ -5,7 +5,7 @@ This is a compilation of all my Python solution during the course of my learning
 
 ## Task 1 - A Python function to find the max of three numbers.
 
-### To begin, one should be able to input the values for the given variables, which can be achieved with the following codes:
+_1. To begin, one should be able to input the values for the given variables, which can be achieved with the following codes:_
   
    a = int(input ('Enter the first value: '));
 
@@ -13,10 +13,11 @@ This is a compilation of all my Python solution during the course of my learning
 
    c = int(input ('Enter the third value: '));
 
-### Afterwards, the function named maximum with the arguments comes in:
+_2. Afterwards, the function named maximum with the arguments comes in:_
+   
    def maximum (a, b, c):
 
-### Then, the conditional statements are used to get the largest value:
+_3. Then, the conditional statements are used to get the largest value:_
 
        
     if (a >= b) and (a >= c):
@@ -29,7 +30,7 @@ This is a compilation of all my Python solution during the course of my learning
          
     return largest
     
-   ### Finally, the largest value is printed out:
+   _4. Finally, the largest value is printed out:_
    
     print (maximum(a, b, c))
     
@@ -37,22 +38,29 @@ This is a compilation of all my Python solution during the course of my learning
     
 ## Task 2 - A Python function to sum all numbers in a list.
     
-### To begin, it is required that the function is defined which is defined as as sum and argument as numbers:
-   def sum (numbers):
+_1. To begin, it is required that the function is defined which is defined as as sum and argument as numbers:_
+  
+  def sum (numbers):
    
-### Furthermore, iteration is required which is first initialized to 0, making use of the FOR LOOP
-    total = 0
-    for x in numbers:
-    total +=x
+
+_2. Furthermore, iteration is required which is first initialized to 0, making use of the FOR LOOP_
+   
+   total = 0
+  
+  for x in numbers:
+  
+  total +=x
     
-### Then, value is returned
-    return total
+_3. Then, value is returned_
+   
+   return total
     
-### Output is printed out 
-    print (sum(numbers))
+_4. Output is printed out_
+ 
+ print (sum(numbers))
     
   
 
 
 
-![Here is the link to the script of the solutions] (http://localhost:8888/notebooks/Untitled14.ipynb?kernel_name=python3#)
+![Here is the link to the script of the solutions](http://localhost:8888/notebooks/Untitled14.ipynb?kernel_name=python3#)
