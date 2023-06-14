@@ -63,4 +63,4 @@ _4. Output is printed out_
 
 
 
-![Here is the link to the script of the solutions](http://localhost:8888/notebooks/Untitled14.ipynb?kernel_name=python3#)
+![Here is the link to the script of the solutions](Untitled14.ipynb)
