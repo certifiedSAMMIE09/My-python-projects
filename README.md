@@ -1,8 +1,9 @@
 # My-python-projects
 ### Introduction
-This is a compilation of all my python solution during the course of my learning.
+This is a compilation of all my Python solution during the course of my learning.
 
-+ Task 1 - A python function to find the max of three numbers.
+### PYTHON FUNCTION
++ Task 1 - A Python function to find the max of three numbers.
 
 
 
